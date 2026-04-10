@@ -61,11 +61,6 @@ streamlit run app.py
 
 <hr>
 
-<h2>📷 Demo</h2>
-<p>Add your Streamlit screenshot here</p>
-
-<hr>
-
 <h2>📈 Future Improvements</h2>
 <ul>
 <li>Integration with real smart meter data</li>
